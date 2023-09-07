@@ -1,5 +1,5 @@
 # DVT-Explorer
-
+Sonification of star and planet variables from the Transiting Exoplanet Survey Satellite (TESS) stored in Data Validation Time-series (DVT) files. Data: STScI.
 
 
 
