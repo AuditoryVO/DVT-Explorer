@@ -8,7 +8,7 @@ CONTENTS
   - CSound/Cabbage file: DVT_Explorer.csd
   - Cabbage mask files: init_DVT.png and init_plot.png
   - Image samples: DVT.png and plot.png
-- Single DVT Aladin
+- Single DVT + Aladin folder
   - Jupyter notebook: Single_DVT_Aladin.ipynb
   - CSound/Cabbage file: Single_DVT_Aladin.csd
   - Cabbage mask file: init_DVT.png
