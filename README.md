@@ -14,6 +14,8 @@ CONTENTS
   - CSound/Cabbage file: Single_DVT_Aladin.csd
   - Cabbage mask file: init_DVT.png
   - Image sample: DVT.png
+- LICENSE
+- README
 - requirements.txt
 
 CABBAGE/CSOUND INSTALLATION
@@ -38,7 +40,7 @@ DVT-EXPLORER INSTALLATION
 
 4- To reproduce the sonifications:
    - Launch Cabbage, open DVT_Explorer.csd, and press play
-   - Run the Jupyter notebook (AbsEmis2Sound.ipynbDVT_Explorer-TESS_sector1.ipynb)
+   - Run the Jupyter notebook (DVT_Explorer-TESS_sector1.ipynb)
    - Add your path to the downloaded files before running all the cells
 
 Enjoy the sonifications!
