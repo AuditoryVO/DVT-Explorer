@@ -41,7 +41,7 @@ DVT-EXPLORER INSTALLATION
 4- To reproduce the sonifications:
    - Launch Cabbage, open DVT_Explorer.csd, and press play
    
-   Important note: Cabbage 2.9.0 requires CamelCase update via: File/Convert Identifiers to camelCase. Also change manually “PluginID” to “PulginId” to avoid warnings.
+   Important note: Cabbage 2.9.0 requires CamelCase update via: File/Convert Identifiers to camelCase. Also change manually “PluginID” to “PluginId” to avoid warnings.
 
    - Run the Jupyter notebook (DVT_Explorer-TESS_sector1.ipynb)
    - Add your path to the downloaded files before running all the cells
